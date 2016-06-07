@@ -3,3 +3,22 @@
 
 
 
+
+
+
+
+.high-menu{
+    display: block;
+    height: 130px;
+    width: 100%;
+    background-color: #fff;
+    position: absolute;
+    top: -130px;
+}
+
+.cap{
+
+}
+
+
+
